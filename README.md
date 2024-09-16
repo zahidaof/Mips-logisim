@@ -27,7 +27,7 @@ The project is structured to help beginners understand processor design and basi
 
 ### Prerequisites
 
-- **Logisim Evolution**: Download and install Logisim Evolution from [Logisim Evolution](http://www.cburch.com/logisim/).
+- **Logisim Evolution**: Download and install Logisim Evolution from [Logisim Evolution]([http://www.cburch.com/logisim/](https://github.com/logisim-evolution/logisim-evolution)).
 
 ### Running the Project
 
