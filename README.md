@@ -33,7 +33,7 @@ This project demonstrates the implementation of a 32-bit MIPS processor using Lo
 
 ## Modulus Calculator Program
 
-Both processor versions come with a modulus calculator program, which:
+single-cycle processor version come with a modulus calculator program, which:
 
 1. Allows user input for two numbers.
 2. Calculates the quotient and remainder.
