@@ -4,11 +4,7 @@ Welcome to the MIPS Processor Implementation project! This repository demonstrat
 
 ## Overview
 
-The project is structured to help beginners understand processor design and basic MIPS instruction execution. It features:
-
-- **Single-Cycle MIPS Processor**: Executes one instruction per clock cycle, ideal for learning fundamental concepts.
-- **Pipelined MIPS Processor**: Utilizes pipelining to improve performance by allowing simultaneous execution of multiple instructions.
-- **Modulus Calculator Program**: A sample program to calculate and display the quotient and remainder of two numbers.
+This project demonstrates the implementation of a 32-bit MIPS processor using Logisim Evolution. The project is designed to help beginners understand how a processor works, with a focus on logical design and basic MIPS instructions. The project includes two versions of the MIPS processor: a single-cycle version and a pipelined version.
 
 ## Features
 
@@ -27,7 +23,7 @@ The project is structured to help beginners understand processor design and basi
 
 ### Prerequisites
 
-- **Logisim Evolution**: Download and install Logisim Evolution from [Logisim Evolution]([http://www.cburch.com/logisim/](https://github.com/logisim-evolution/logisim-evolution)).
+- **Logisim Evolution**: Download and install Logisim Evolution from [Logisim Evolution]((https://github.com/logisim-evolution/logisim-evolution)).
 
 ### Running the Project
 
